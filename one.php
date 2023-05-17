@@ -9,6 +9,8 @@
 
 // Check the connection
 
+// this code for finding the largest number
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $numbers = $_POST['numbers'];
 
